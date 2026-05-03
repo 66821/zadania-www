@@ -1,0 +1,18 @@
+{
+  "skills": [
+    "Java – podstawy programowania obiektowego",
+    "HTML5 – semantyczna struktura stron",
+    "CSS3 – layout, Flexbox, responsywność",
+    "JavaScript – podstawy manipulacji DOM",
+    "Git i GitHub – kontrola wersji",
+    "SQL – podstawowe zapytania baz danych",
+    "Podstawy algorytmów i struktur danych",
+    "Praca zespołowa i rozwiązywanie problemów"
+  ],
+  "projects": [
+    "Strona CV w HTML",
+    "Aplikacja konsolowa w Java – projekt edukacyjny",
+    "Formularz kontaktowy z walidacją JavaScript",
+    "Dynamiczne generowanie list z pliku JSON"
+  ]
+}
