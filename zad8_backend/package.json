@@ -1,0 +1,13 @@
+{
+  "name": "zad8-backend",
+  "version": "1.0.0",
+  "description": "Zadanie 8 - komunikacja frontend z backendem i zapis danych poza przeglądarką",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3"
+  }
+}
